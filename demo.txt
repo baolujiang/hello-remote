@@ -5,3 +5,5 @@ this line is added locally.
 another line added locally.
 
 4th line added on the server.
+
+` var c = 7;`
